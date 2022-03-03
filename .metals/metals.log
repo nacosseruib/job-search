@@ -1,0 +1,8 @@
+2020.11.20 15:59:57 INFO  Started: Metals version 0.9.5 in workspace 'C:\wamp64\www\shopstore4me.com' for client vscode.
+2020.11.20 16:00:02 INFO  time: initialize in 5.11s
+2020.11.20 16:00:05 WARN  Build server is not auto-connectable.
+2020.11.20 16:00:05 WARN  no build tool detected in workspace 'C:\wamp64\www\shopstore4me.com'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 07:58:56 INFO  Started: Metals version 0.9.6 in workspace 'C:\wamp64\www\shopstore4me.com' for client vscode.
+2020.12.01 07:59:15 INFO  time: initialize in 20s
+2020.12.01 07:59:42 WARN  Build server is not auto-connectable.
+2020.12.01 07:59:42 WARN  no build tool detected in workspace 'C:\wamp64\www\shopstore4me.com'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
